@@ -14,7 +14,8 @@ console.log(selected);
  * 3. filter (goes to every array element, check condition, and return the result, if do not find anything, then return an empty array)
  * 4. find (goes to every array element, check condition, if condition matched and there are 
  *           multiple result, will return the first result, if one then will return one result and
- *           if do not got anything will return undefined) 
+ *           if do not got anything will return undefined)
+ * 5. reduce 
  */
 
 // goes to every array element === do loop to every array element
